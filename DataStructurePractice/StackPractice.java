@@ -1,5 +1,4 @@
-import java.util.Collection;
-import java.util.List;
+package DataStructurePractice;
 
 class Stack<T> {
     /*T t = new T(); // --> Type paratmet 'T' cannot be instantiated directly*/
